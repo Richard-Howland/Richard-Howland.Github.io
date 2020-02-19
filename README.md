@@ -1,2 +1,2 @@
-# Richard-Howland.Github.io
+# Richard Howland
 My Website
